@@ -12,4 +12,4 @@ University of California, Davis
 
 I am a PhD candidate in the Agricultural and Resource Economics department at the University of California, Davis. I received both an MA and a BA in Economics from the Universidad de los Andes. 
 
-My research interests are Development and Labor economics.
+My research interests are Development and Labor economics with a focus on agricultural productivity and migration.
