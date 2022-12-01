@@ -10,4 +10,6 @@ University of California, Davis
 
 ![Headshot](/assets/Headshot.jpg)
 
-I am an applied microeconomist with an interest in stuff.
+I am a PhD candidate in the Agricultural and Resource Economics department at the University of California, Davis. I received both an MA and a BA in Economics from the Universidad de los Andes. 
+
+My research interests are Development and Labor economics.
