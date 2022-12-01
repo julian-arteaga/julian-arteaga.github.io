@@ -23,6 +23,6 @@ Protecting Pastoralist Women’s Productive Assets with Insurance (with Michael 
  
 ## Publications
 
-### Land, Child Labor, and Schooling: Longitudinal evidence from Colombia and Mexico. 2016. Coyuntura Econ ́omica, Fedesarrollo. Vol. XLVI, No.2 [Link](https://www.repository.fedesarrollo.org.co/bitstream/handle/11445/3461/Co_Eco_Diciembre_2016_Arteaga.pdf?sequence=1&isAllowed=y)
+Land, Child Labor, and Schooling: Longitudinal evidence from Colombia and Mexico. 2016. Coyuntura Econ ́omica, Fedesarrollo. Vol. XLVI, No.2 [Link](https://www.repository.fedesarrollo.org.co/bitstream/handle/11445/3461/Co_Eco_Diciembre_2016_Arteaga.pdf?sequence=1&isAllowed=y)
 
 
