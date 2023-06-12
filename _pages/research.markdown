@@ -7,7 +7,7 @@ title: "Research"
 
 Land-Market Restrictions and Agricultural Productivity under Market Power: Evidence from Colombia’s Land Allocation Policy.
 
-Declining Mobility among Mexican-Born Workers in the U.S. Labor Force (With Ashish Shenoy)[paper](../assets/Paper_Mexican_Mobility.pdf)
+Declining Mobility among Mexican-Born Workers in the U.S. Labor Force (With Ashish Shenoy) [paper](../assets/Paper_Mexican_Mobility.pdf)
 
 Temperature Shocks and Land Fragmentation: Evidence from Transaction and Property Registry Data (with Nicolás de Roux, Margarita Gáfaro, Ana María Ibáñez, and Heitor Pellegrina).
 
@@ -17,7 +17,7 @@ Protecting Pastoralist Women’s Productive Assets with Insurance (with Michael 
 
 The Impact of Village Insurance Savings Accounts on Women's Assets and Savings (with Michael Carter and Kelvin Shikuku) [AEA RCT Registry](https://doi.org/10.1257/rct.11253-1.1)
 
-On The Political And Social Consequences Of Economic Inequality: Civic Engagement In Colombia, (with Ana Arjona, Juan Camilo Cárdenas, Patricia Justino, and Ana María Ibáñez). UNU-WIDER Working Paper 76, 2019. [UNU WIDER Working Paper](https://www.wider.unu.edu/publication/political-and-social-consequences-economic-inequality)
+On The Political And Social Consequences Of Economic Inequality: Civic Engagement In Colombia, (with Ana Arjona, Juan Camilo Cárdenas, Patricia Justino, and Ana María Ibáñez). UNU-WIDER Working Paper 76, 2019. [Link](https://www.wider.unu.edu/publication/political-and-social-consequences-economic-inequality)
  
 ## Publications
 
