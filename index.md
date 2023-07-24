@@ -10,10 +10,12 @@ University of California, Davis
 
 
 
-<img align="left" src="assets/Headshot.jpg" alt="Headshot" width="300">
+<img align="center" src="assets/Headshot.jpg" alt="Headshot" width="450">
 
 <p align="center">
-&nbsp;&nbsp;I am a fifth-year PhD student in the Agricultural and Resource Economics department at the University of California, Davis. I study development economics, and my research focuses on agricultural land and labor markets, agricultural productivity, migration, and on how rural households mitigate risk.
+I am a fifth-year PhD student in the Agricultural and Resource Economics department at the University of California, Davis. I study development economics, and my research focuses on agricultural land and labor markets, agricultural productivity, migration, and on how rural households mitigate risk.
+</p>
 
-&nbsp;&nbsp;Before starting my Ph.D. I received an MA and a BA in Economics from the Universidad de los Andes.
+<p align="center">
+Before starting my Ph.D. I received an MA and a BA in Economics from the Universidad de los Andes.
 </p>
