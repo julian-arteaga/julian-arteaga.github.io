@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 sidebar:
   - image: "assets/Headshot.jpg"
+  - bio: "jgarteaga@ucdavis.edu"
 ---
 
 <p align="center">
