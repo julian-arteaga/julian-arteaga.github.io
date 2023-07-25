@@ -1,12 +1,6 @@
 ---
 layout: single
 author_profile: true
-author:
-  name             : ""
-  avatar           : ""
-  bio              : "PhD Candidate  <br> 
-Agricultural and Resource Economics  <br> 
-University of California, Davis"
 ---
 
 <p align="center">
