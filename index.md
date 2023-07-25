@@ -10,7 +10,7 @@ I am a fifth-year Ph.D. student in the Agricultural and Resource Economics depar
 </p>
 
 <p align="center">
-Before starting my Ph.D. I received an MA and a BA in Economics from the Universidad de los Andes.
+Before starting my Ph.D. I received an MA and a BA in Economics from Universidad de los Andes.
 </p>
 
 <p align="center">
