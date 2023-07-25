@@ -1,12 +1,13 @@
 ---
 layout: single
 author_profile: true
-title: "Julian Arteaga"
----
-
-PhD Candidate  
+author:
+  name             : "Your Sidebar Name"
+  avatar           :  "assets/Headshot.jpg"
+  bio              : "PhD Candidate  
 Agricultural and Resource Economics  
-University of California, Davis
+University of California, Davis"
+---
 
 <img align="left" src="assets/Headshot.jpg" alt="Headshot" width="200">
 
