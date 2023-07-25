@@ -2,10 +2,10 @@
 layout: single
 author_profile: true
 author:
-  name             : "Your Sidebar Name"
-  avatar           :  "assets/Headshot.jpg"
-  bio              : "PhD Candidate  \
-Agricultural and Resource Economics  \
+  name             : ""
+  avatar           : ""
+  bio              : "PhD Candidate  <br> 
+Agricultural and Resource Economics  <br> 
 University of California, Davis"
 ---
 
@@ -16,3 +16,5 @@ I am a fifth-year PhD student in the Agricultural and Resource Economics departm
 <p align="center">
 Before starting my Ph.D. I received an MA and a BA in Economics from the Universidad de los Andes.
 </p>
+
+<img align="center" src="assets/Headshot.jpg" alt="Headshot" width="200">
