@@ -3,9 +3,8 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Julian Arteaga
-PhD Candidate
-
+Julian Arteaga  
+Ph.D. Candidate
 Department of Agricultural and Resource Economics  
 University of California, Davis  
 2168 Social Sciences and Humanities  
