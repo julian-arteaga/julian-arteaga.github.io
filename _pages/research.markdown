@@ -11,7 +11,7 @@ Declining Mobility among Mexican-Born Workers in the U.S. Labor Force (With Ashi
 
 Temperature Shocks and Land Fragmentation: Evidence from Transaction and Property Registry Data (with Nicolás de Roux, Margarita Gáfaro, Ana María Ibáñez, and Heitor Pellegrina).
 
-Mexican migration flows and agricultural labor markets in the U.S. (With Ashish Shenoy).
+Mexican Migration Flows and Agricultural Labor Markets in the U.S. (With Ashish Shenoy).
 
 Reformulating Index Insurance to Cover Women’s Indirect Risk Exposure:
 Evidence from Pastoralist Communities in Kenya (with Michael Carter and Andrew Hobbs).
