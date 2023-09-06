@@ -14,7 +14,7 @@ Temperature Shocks and Land Fragmentation: Evidence from Transaction and Propert
 Mexican Migration Flows and Agricultural Labor Markets in the U.S. (With Ashish Shenoy).
 
 Reformulating Index Insurance to Cover Women’s Indirect Risk Exposure:
-Evidence from Pastoralist Communities in Kenya (with Michael Carter and Andrew Hobbs).
+Evidence from Pastoralist Communities in Kenya (with Michael Carter and Andrew Hobbs)[NBER Working Paper](https://www.nber.org/papers/w31639).
 
 The Impact of Village Insurance Savings Accounts on Women's Assets and Savings (with Michael Carter and Kelvin Shikuku). [AEA RCT Registry](https://doi.org/10.1257/rct.11253-1.1)
 
