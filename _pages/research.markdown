@@ -5,7 +5,7 @@ title: "Research"
 
 ## Work in Progress
 
-Land-Market Restrictions and Agricultural Productivity under Market Power: Evidence from Colombia’s Land Allocation Policy.
+Land-Market Restrictions and Agricultural Productivity under Market Power. *Job Market Paper*
 
 Declining Mobility among Mexican-Born Workers in the U.S. Labor Force (With Ashish Shenoy). [Draft](../assets/Paper_Mexican_Mobility.pdf)
 
