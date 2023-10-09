@@ -1,6 +1,8 @@
 ---
 permalink: /research/
 title: "Research"
+sidebar:
+  - image: "assets/Headshot.jpg"
 ---
 
 ## Work in Progress
