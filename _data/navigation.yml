@@ -1,9 +1,0 @@
-main:
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: "CV.pdf"
-  - title: "Contact"
-    url: /contact/
