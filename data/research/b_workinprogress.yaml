@@ -1,0 +1,33 @@
+b_workinprogress:
+
+- title: "Temperature Shocks and Land Fragmentation: Evidence from Transaction and Property Registry Data"
+  book: "Draft coming soon"
+  links2:
+  - linkText: Nicolás de Roux,
+    linkURL: https://sites.google.com/site/nicoderoux/
+  - linkText: Margarita Gáfaro,
+    linkURL: https://investiga.banrep.gov.co/es/profile/63
+  - linkText: Ana María Ibáñez,
+    linkURL: http://www.anamariaibanez.net
+  - linkText: Heitor Pellegrina
+    linkURL: https://sites.google.com/site/heitorpellegrina/
+
+- title: "Mexican Migration Flows and Agricultural Labor Markets in the U.S."
+  book: "Draft coming soon"
+  links:
+  - url: "/pdf/Mexmiglabor_lacea_humans_slides.pdf"
+    text: "Slides"
+  links2:
+  - linkText: Ashish Shenoy
+    linkURL: https://ashishshenoy.com
+
+- title: "The Impact of Village Insurance Savings Accounts on Women’s Assets and Savings"
+  links2:
+  - linkText: Michael Carter,
+    linkURL: https://are.ucdavis.edu/people/faculty/michael-carter/
+  - linkText: Kelvin Shikuku
+    linkURL: https://www.ilri.org/people/kelvin-mashisia-shikuku
+  links:
+  - url: "https://doi.org/10.1257/rct.11253-1.1"
+    text: "AEA RCT Registry"
+

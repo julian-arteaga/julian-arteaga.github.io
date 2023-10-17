@@ -1,0 +1,17 @@
+courses:
+
+- title: "Economics of Global Poverty"
+  institute: "UC Davis"
+  level: "Undergraduate (Upper Division)"
+
+- title: "Poverty and Economic Development"
+  institute: "Universidad de los Andes"
+  level: "Graduate"
+
+- title: "Intermediate Microeconomics"
+  institute: "Universidad de los Andes"
+  level: "Undergraduate"
+
+- title: "Colombian Economic History"
+  institute: "Universidad de los Andes"
+  level: "Undergraduate"
