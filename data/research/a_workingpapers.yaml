@@ -3,9 +3,10 @@ a_workingpapers:
 - title: "Land-Market Restrictions and Agricultural Productivity under Market Power"
   # pdflink: "/pdf/Not Learning from Others.pdf"
   book: "Job Market Paper"
-  links:
-  - url: "/pdf/Arteaga_landincolombia_latest.pdf"
-    text: "Paper"
+  note: "Draft coming soon"
+  # links:
+  # - url: "/pdf/Arteaga_landincolombia_latest.pdf"
+  #   text: "Paper"
   abstract: >
     I estimate how the imposition of municipality-specific restrictions on rural land markets impacts productivity, land concentration, and agricultural labor outcomes in Colombia. Using a newly built dataset and exploiting variation in land ownership ceilings across bordering municipalities, I find that municipalities with more stringent restrictions experienced a permanent reduction in agricultural revenue per hectare, accompanied by minimal reductions in overall land inequality. However, restrictions also increased agricultural workers’ earnings and the share of workers employed in agriculture. I further show that the average negative effects on productivity are heterogeneous and depend on the degree of pre-reform land concentration in each municipality. These results are in line with an economy where producers have market power in agricultural input markets, and where the implementation of sales restrictions curbs market power effects but also introduces other type of distortions. To formalize this intuition, I develop a general-equilibrium model of agricultural production in which large landholders exert market power in both land and labor markets, while the government imposes limits on land accumulation. The model’s predictions are consistent with both the estimated effects and with the observed long-run patterns of persistent land concentration in the economy.
 
