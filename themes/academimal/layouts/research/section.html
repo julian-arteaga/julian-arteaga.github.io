@@ -62,11 +62,13 @@
 {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 {{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
 
-<!-- <details>
+{{ with .abstract }}
+<details>
     <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
 
-    {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-</details> -->
+    <p style="margin:0 0 5px;">{{ . }}</p>
+</details>
+{{ end }}
 
 {{ with .links }}
 {{ range . }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
