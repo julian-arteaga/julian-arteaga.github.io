@@ -13,6 +13,9 @@ b_workinprogress:
     linkURL: https://sites.google.com/site/heitorpellegrina/
   abstract: > 
     This paper studies the effect of weather shocks on rural land sales and the farm size distribution. Using a unique administrative dataset with transaction-level information and a land registry covering most of Colombia’s farmland, we show that extreme temperature events increase the frequency of land sales and decrease the average farm size within municipalities. These results are driven by small farms being subdivided and purchased by previously landless owners, with no evidence of weather shocks leading to the consolidation of small farms into larger holdings. The effects of extreme temperature on land sales are stronger in poorer and more isolated municipalities, where landowners are also less likely to take out land mortgages after a shock. To explain these patterns and explore how they can be exacerbated by underdevelopment, we develop an intertemporal, two-sector model where agents face a subsistence consumption constraint. Our findings highlight how climate-induced distress land sales are a relevant margin of adjustment that can have large distributional and efficiency implications for the agricultural sector of developing economies.
+  links:
+  - url: "/pdf/Farmsize_NEUDC_2023.pdf"
+    text: "Slides"
 
 - title: "Mexican Migration Flows and Agricultural Labor Markets in the U.S."
   book: "Draft coming soon"
