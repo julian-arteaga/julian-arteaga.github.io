@@ -76,7 +76,7 @@
 {{ end }}
 
 {{ with .links }}
-{{ range . }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
+{{ range . }}<p style="margin:0 0 5px;"></p><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
 {{ end }}
 </p>
 {{ end }}
