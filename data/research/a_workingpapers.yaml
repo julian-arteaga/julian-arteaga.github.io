@@ -1,17 +1,19 @@
 a_workingpapers:
 
 - title: "Land-Market Restrictions and Agricultural Productivity under Market Power"
-  # pdflink: "/pdf/Not Learning from Others.pdf"
   book: "Job Market Paper"
-  # note: "Draft coming soon"
   links:
   - url: "/pdf/Arteaga_landincolombia_latest.pdf"
     text: "Paper"
+
+  links3:
+  - url: https://blogs.worldbank.org/impactevaluations/can-government-restrictions-rural-land-markets-benefit-landless-workers-guest
+    text: "[World Bank Development Impact Blog]"
+  
   abstract: >
     I investigate how government restrictions on land markets impact the agricultural sector, and assess whether such restrictions can curb distortions that stem from the presence of market power. To do so, I develop a general-equilibrium production model in which large landholders exert market power in both land and labor markets, and where there are limits on land accumulation. Restrictions reduce the inefficiencies arising from market power, but also hinder productive reallocation, with the net effect on productivity depending on initial levels of land concentration. I empirically test the model’s predictions by estimating how a law imposing municipality-specific limits on landholdings in Colombia affected productivity, land concentration, and agricultural labor markets. To estimate the impact of the law, I combine a collection of rich micro-level data sources which include a newly built dataset on municipal agricultural productivity. Exploiting plausibly exogenous variation in restriction stringency across bordering municipalities, I find that imposing restrictions caused a permanent reduction in productivity and only modest reductions in overall land inequality. However, restrictions also increased both agricultural workers’ earnings and the employment share in agriculture, suggesting they were beneficial to landless wage laborers by reducing labor market power.
 
 - title: "Declining Mobility among Mexican-Born Workers in the U.S. Labor Force"
-  # pdflink: "/pdf/Paper_Mexican_Mobility_aug2023.pdf"
   book: "Submitted"
   links2:
   - linkText: Ashish Shenoy
@@ -23,7 +25,6 @@ a_workingpapers:
     Geographic mobility is a key component of labor supply elasticity. We document a reversal in the relative migration elasticity of Mexican immigrants in the U.S. relative to native-born workers. In 2000--2012, Mexican immigrants' location choice was more responsive to local economic conditions, with the gap expanding over the period. This pattern subsequently reversed, and by 2020 native-born workers had a greater migration elasticity than their Mexican-born counterparts. This reversal is unique to immigrants of Mexican origin, does not correspond to geographic differences in immigration policy, and is not explained by the occupational or demographic composition of the Mexican-born labor force.
 
 - title: "Reformulating Index Insurance to Cover Women’s Indirect Risk Exposure: Evidence from Pastoralist Communities in Kenya"
-  # pdflink: "/pdf/Paper_Mexican_Mobility_aug2023.pdf"
   links2:
   - linkText: Michael Carter,
     linkURL: https://are.ucdavis.edu/people/faculty/michael-carter/
