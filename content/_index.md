@@ -9,4 +9,4 @@ I am an Extended Term Consultant in World Bank's Development Research Group (DEC
 
 I earned my Ph.D. in Agricultural and Resource Economics at the University of California, Davis. Before that I received an MA and a BA in Economics from Universidad de los Andes in Bogotá, Colombia.
 
-<!-- You can reach me at jgarteaga@ucdavis.edu -->
+You can reach me at jarteaga@worldbank.org
