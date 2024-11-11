@@ -17,16 +17,6 @@ b_workinprogress:
   - url: "/pdf/Farmsize_NEUDC_2023.pdf"
     text: "Slides"
 
-- title: "Mexican Migration Flows and Agricultural Labor Markets in the U.S."
-  book: "Draft coming soon"
-  links:
-  - url: "/pdf/Mexmiglabor_lacea_humans_slides.pdf"
-    text: "Slides"
-  links2:
-  - linkText: Ashish Shenoy
-    linkURL: https://ashishshenoy.com
-  
-    
 - title: "The Impact of Village Insurance Savings Accounts on Women’s Assets and Savings"
   links2:
   - linkText: Michael Carter,
