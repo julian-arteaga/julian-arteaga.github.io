@@ -35,3 +35,16 @@ a_workingpapers:
     text: "NBER Working Paper 31639, (2023)"
   abstract: >
     The novel insurance contracts for crop losses and livestock mortality that have been developed in low income countries typically protect against shocks in the traditionally male sphere of economic activity. Often overlooked are women, the particularities of their indirect exposure to this risk, and their socially constructed responsibility to manage family well-being. To fill this lacuna, this paper studies the effect of a low-cost intervention that reformulates a livestock insurance contract so that it directly addresses women’s risk and is sold in units that are commensurate with women’s expenditure responsibilities. We measure the effect of this contractual reformulation using a randomized trial amongst pastoralist communities in Kenya. Twenty-nine percent of previously subsidized households that received the novel contractual formulation purchased insurance (without subsidy), compared to only nineteen percent of previously subsidized households offered insurance under the standard malerisk formulation. Households that had not received prior insurance subsidies purchased no insurance, irrespective of the inclusivity of the insurance design. Protecting women, their assets, and those who depend on them will require a combination of smart subsidies and gender-inclusive insurance contract design.
+
+- title: "Mexican Migration Flows and Agricultural Labor Markets in the U.S."
+  links2:
+  - linkText: Ashish Shenoy
+    linkURL: https://ashishshenoy.com
+  links:
+  - url: "/pdf/mexmiglabor_v2.pdf"
+    text: "Paper"
+  abstract: >
+    Using information on migratory ﬂows for every Mexican municipality and U.S. county pair throughout the 2006–2019 period, this paper estimates the eﬀect that variations in Mexican migration ﬂows have on U.S. agricultural labor-market outcomes. We instrument for migration-driven changes in local labor supply using a shift-share variable that combines Mexican municipality-level violence levels with preexisting migration network patterns. Our estimates show that, in the short run, decreasing migration rates put upward pressure on wages across all types of agricultural workers, and cause a large increase in the number of H-2A seasonal worker visas requested by employers. Conversely, in the long run, decreasing migration rates lead to lower wages in agriculture accompanied by slight reductions in employment levels. Regarding the mechanisms driving this result, we ﬁnd that an exogenous decrease in the cumulative number of migrants arriving to a county during this period led to reductions in the acreage planted with labor-intensive crops, higher rates of mechanization, and lower average farmland values.
+
+  
+    
