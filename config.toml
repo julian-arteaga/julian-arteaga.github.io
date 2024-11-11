@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Julián Arteaga"
+title = "Julian Arteaga"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 
 [params]
-shortbio = "Ph.D. Candidate in Agricultural and Resource Economics, UC Davis"
+shortbio = ""
 logo = "Headshot.jpg"
 
 [markup]
