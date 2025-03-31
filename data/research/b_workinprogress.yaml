@@ -1,29 +1,18 @@
 b_workinprogress:
 
-- title: "Temperature Shocks and Land Fragmentation: Evidence from Transaction and Property Registry Data"
-  book: "Draft coming soon"
-  links2:
-  - linkText: Nicolás de Roux,
-    linkURL: https://sites.google.com/site/nicoderoux/
-  - linkText: Margarita Gáfaro,
-    linkURL: https://investiga.banrep.gov.co/es/profile/63
-  - linkText: Ana María Ibáñez,
-    linkURL: http://www.anamariaibanez.net
-  - linkText: Heitor Pellegrina
-    linkURL: https://sites.google.com/site/heitorpellegrina/
-  abstract: > 
-    This paper studies the effect of weather shocks on rural land sales and the farm size distribution. Using a unique administrative dataset with transaction-level information and a land registry covering most of Colombia’s farmland, we show that extreme temperature events increase the frequency of land sales and decrease the average farm size within municipalities. These results are driven by small farms being subdivided and purchased by previously landless owners, with no evidence of weather shocks leading to the consolidation of small farms into larger holdings. The effects of extreme temperature on land sales are stronger in poorer and more isolated municipalities, where landowners are also less likely to take out land mortgages after a shock. To explain these patterns and explore how they can be exacerbated by underdevelopment, we develop an intertemporal, two-sector model where agents face a subsistence consumption constraint. Our findings highlight how climate-induced distress land sales are a relevant margin of adjustment that can have large distributional and efficiency implications for the agricultural sector of developing economies.
-  links:
-  - url: "/pdf/Farmsize_NEUDC_2023.pdf"
-    text: "Slides"
-
 - title: "The Impact of Village Insurance Savings Accounts on Women’s Assets and Savings"
   links2:
   - linkText: Michael Carter,
     linkURL: https://are.ucdavis.edu/people/faculty/michael-carter/
   - linkText: Kelvin Shikuku
-    linkURL: https://www.ilri.org/people/kelvin-mashisia-shikuku
+  linkURL: https://www.ilri.org/people/kelvin-mashisia-shikuku
   links:
   - url: "https://doi.org/10.1257/rct.11253-1.1"
     text: "AEA RCT Registry"
+
+- title: "Yield Gains from Balancing Fertilizer Use: Evidence from Eastern India"
+  links2:
+  - linkText: Klaus Deininger
+    linkURL: https://www.worldbank.org/en/about/people/k/klaus-deininger
+
 

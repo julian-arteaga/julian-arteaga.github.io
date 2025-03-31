@@ -24,6 +24,21 @@ a_workingpapers:
   abstract: >
     Geographic mobility is a key component of labor supply elasticity. We document a reversal in the relative migration elasticity of Mexican immigrants in the U.S. relative to native-born workers. In 2000--2012, Mexican immigrants' location choice was more responsive to local economic conditions, with the gap expanding over the period. This pattern subsequently reversed, and by 2020 native-born workers had a greater migration elasticity than their Mexican-born counterparts. This reversal is unique to immigrants of Mexican origin, does not correspond to geographic differences in immigration policy, and is not explained by the occupational or demographic composition of the Mexican-born labor force.
 
+- title: "Farm Size Distribution, Weather Shocks, and Agricultural Productivity"
+  links2:
+  - linkText: Nicolás de Roux,
+    linkURL: https://sites.google.com/site/nicoderoux/
+  - linkText: Margarita Gáfaro,
+    linkURL: https://investiga.banrep.gov.co/es/profile/63
+  - linkText: Ana María Ibáñez,
+    linkURL: http://www.anamariaibanez.net
+  - linkText: Heitor Pellegrina
+    linkURL: https://sites.google.com/site/heitorpellegrina/
+  links:
+  - url: "/pdf/ADGIP_2025.pdf"
+    text: "Paper"
+  abstract: >
+    This paper studies the dynamics of farm size distribution, how they are influenced by weather shocks, and the implications for aggregate productivity. Using data from several developing countries, we first document new empirical facts about households’ landholding choices and how weather shocks influence these decisions. Building on a rich longitudinal dataset for Colombia on farm sizes, land transactions, and households’ consumption and investment decisions, we then show that weather shocks increase the frequency of land sales and reduce farm sizes within municipalities, especially among smaller farms. To rationalize these facts, we develop a dynamic, heterogeneous house- hold model in which uninsured farmers make landholding and occupational choices. Our calibrated model shows that uninsured risk substantially curbs aggregate agricul- tural productivity, and that the effects of temporary weather shocks on farm size and agricultural output are highly persistent, taking more than a decade to fade out.
 - title: "Insuring those Who Bear the Risk: The Impact of Gender-inclusive Insurance in Kenya"
   links2:
   - linkText: Michael Carter,

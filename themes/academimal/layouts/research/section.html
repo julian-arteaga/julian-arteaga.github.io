@@ -13,11 +13,11 @@
 
     
     {{ with .links2 }}
-    (with
+    with
         {{ range . }} 
             <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
         {{ end }}
-    )
+    
     {{ end }}
     
     <!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
@@ -55,11 +55,11 @@
 
 
     {{ with .links2 }}
-    (with
+    with
     {{ range . }}
     <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
     {{ end }}
-    )
+    
     {{ end }}
 
 
@@ -93,11 +93,11 @@
 
 
 {{ with .links2 }}
-(with
+with
 {{ range . }}
 <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
 {{ end }}
-)
+
 {{ end }}
 
 
