@@ -353,6 +353,11 @@ p img.octicons {
   bottom: -0.16em;
 }
 
+.footer-note {
+	font-size: 0.7em;
+	color: #666; /* optional: makes it a bit more muted */
+}
+
 .pgp-fingerprint span:first-child {
   padding-left: 0;
 }

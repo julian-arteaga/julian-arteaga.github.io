@@ -5,8 +5,8 @@ title = "Homepage"
 # About me
 
 
-I am an Extended Term Consultant in World Bank's Development Research Group (DECRG). I study development economics, and my research focuses on agricultural land and labor markets, agricultural productivity, migration, and on the way rural households mitigate risk.
+I am an Economics Consultant at the Vice Presidency for Sectors and Knowledge (VPS) of the Inter-American Development Bank. I study development economics, with a focus on agricultural land and labor markets, agricultural productivity, migration, and household risk mitigation.
 
-I received my Ph.D. in Agricultural and Resource Economics at the University of California, Davis. Before that I received an MA and a BA in Economics from Universidad de los Andes in Bogotá, Colombia.
+I received a Ph.D. in Agricultural and Resource Economics from the University of California, Davis. Before that, I received an MA and a BA in Economics from Universidad de los Andes in Bogotá, Colombia.
 
-You can reach me at jarteaga@worldbank.org
+You can reach me at julianart@iadb.org
