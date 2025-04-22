@@ -22,13 +22,13 @@
         {{ partial "sidebar.html" . }} 
 
         <!-- begin photo -->
-        {{ with .Site.Params.logo }}
+        <!--{{ with .Site.Params.logo }}
         <img src="{{ . | relURL }}" alt="Logo" style="width:275px; height:auto;"/>
-        {{ end }}
+        {{ end }} -->
         <!-- end photo -->
 
 		<p class="footer-note">
-			Last updated on {{ now.Format "Jan 2, 2006" }}<br>
-			I built this webpage based on the Hugo theme developed by <a href="https://github.com/yangl1996">Lei Yang</a>
+			Last updated on {{ now.Format "Jan 2006" }}<br>
+			This webpage is based on the Hugo theme developed by <a href="https://github.com/yangl1996">Lei Yang</a>
 		</p>
 	</header>
