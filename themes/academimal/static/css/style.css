@@ -633,3 +633,9 @@ screen and (max-width: 480px) {
     color: #444;
   }
 }
+
+figure.left {
+	margin-left: 0;          /* kill the centring */
+	margin-right: auto;
+	text-align: left;        /* keeps any caption left‑aligned too */
+}
