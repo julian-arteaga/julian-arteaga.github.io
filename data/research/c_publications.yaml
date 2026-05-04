@@ -1,7 +1,24 @@
 c_publications:
 
+- title: "Insuring those Who Bear the Risk: The Impact of Gender-inclusive Insurance in Kenya"
+  book: "World Development, (2026)"
+  links2:
+  - linkText: Michael Carter,
+    linkURL: https://are.ucdavis.edu/people/faculty/michael-carter/
+  - linkText: Andrew Hobbs
+    linkURL: https://hobbservations.com
+
+  links:
+  - url: "https://www.sciencedirect.com/science/article/pii/S0305750X26000197?via%3Dihub"
+    text: "Paper"
+  - url: "https://www.nber.org/papers/w31639"
+    text: "NBER Working Paper 31639, (2023)"
+
+  abstract: >
+    Most insurance for crop and livestock loss that has been developed in low income countries protects against shocks in traditionally male spheres of economic activity. Often overlooked are women, the particularities of their indirect exposure to these shocks, and their socially constructed responsibility to manage family well-being. To fill this lacuna, this paper studies the effect of a low-cost intervention that reformulates a male-focused livestock insurance contract so that it addresses women’s risks and is sold in units that are commensurate with women’s expenditure responsibilities. We measure the effect of this contractual reformulation using a randomized trial amongst pastoralist communities in Kenya. Twenty-nine percent of previously subsidized households that received the novel, gender-inclusive contractual formulation purchased insurance (without subsidy), compared to nineteen percent of previously subsidized households offered insurance under the standard male-exclusive formulation. Households that had not received prior insurance subsidies purchased no insurance, irrespective of the inclusivity of the insurance design. Protecting women, their assets, and those who depend on them ultimately requires a combination of smart subsidies and gender-inclusive insurance design.
+
 - title: "The Long-Term Economic Legacies of Rebel Rule in Civil War: Micro Evidence From Colombia"
-  book: "Journal of Conflict Resolution, (2024), 68(9):1825-1855."
+  book: "Journal of Conflict Resolution, (2024)"
   links:
     - url: "https://doi.org/10.1177/00220027231170569"
       text: "Paper"
@@ -18,7 +35,7 @@ c_publications:
     A growing literature has documented widespread variation in the extent to which insurgents provide public goods, collect taxes, and regulate civilian conduct. This paper offers what is, to our knowledge, the first study of the long-term economic legacies of rebel governance. This effect is theoretically unclear. Rebel governance may generate incentives for households to expand production and accumulate resources. However, rebel rule may be too unstable to maintain such incentives. We explore empirically the effect of rebel rule on households’ economic resilience using a longitudinal dataset for Colombia. Results show a positive relation between wartime rebel rule and the ability of households to cope with weather shocks in the post-war period. Households in regions where armed groups were present but exercised limited or no intervention fare worse. This effect is associated with infrastructure improvement led by armed groups, their intervention in dispute adjudication, and their close interactions with local populations.
 
 - title: "Land, Child Labor, and Schooling: Longitudinal evidence from Colombia and Mexico"
-  book: "Coyuntura Económica, (2016), 46(2):169-202."
+  book: "Coyuntura Económica, (2016)"
   links:
     - url: "https://www.repository.fedesarrollo.org.co/handle/11445/3461"
       text: "Paper"

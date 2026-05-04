@@ -1,5 +1,21 @@
 b_workinprogress:
 
+- title: "The Anatomy of Household Shocks in Latin America: Evidence from Panel Surveys"
+  links2:
+  - linkText: Mariano Bosch,
+    linkURL: https://mbosch75-bid.github.io/Mariano-Bosch-Webpage/index.html
+  - linkText: Ana María Ibáñez,
+    linkURL: http://www.anamariaibanez.net
+  - linkText: Luis Tejerina
+    linkURL: https://www.iadb.org/en/blog/author/tejerinaluis-rodrigo
+
+- title: "Differentiated Effects of Private and Collective Land Formalization: Evidence from Bolivia’s Land Titling Program"
+  links2:
+  - linkText: Maja Schling,
+    linkURL: https://www.iadb.org/en/node/538948
+  - linkText: Rodrigo Chang
+    linkURL: https://sites.google.com/view/rodrigo-chang/cv?authuser=0
+
 - title: "The Impact of Village Insurance Savings Accounts on Women’s Assets and Savings"
   links2:
   - linkText: Michael Carter,
@@ -9,10 +25,4 @@ b_workinprogress:
   links:
   - url: "https://doi.org/10.1257/rct.11253-1.1"
     text: "AEA RCT Registry"
-
-- title: "Yield Gains from Balancing Fertilizer Use: Evidence from Eastern India"
-  links2:
-  - linkText: Klaus Deininger
-    linkURL: https://www.worldbank.org/en/about/people/k/klaus-deininger
-
 

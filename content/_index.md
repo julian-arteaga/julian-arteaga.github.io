@@ -14,7 +14,7 @@ You can reach me at julianart@iadb.org
 {{< figure
     src="/Headshot.jpg"
     alt="Julian Arteaga"
-    width="250"
+    width="175"
 	class="left"
 >}}
 

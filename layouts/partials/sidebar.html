@@ -1,11 +1,9 @@
 <p><a href="{{  "/" | relURL }}">Home</a></p>
-{{ range .Site.Menus.main }}
+{{ range .Site.Menus.main }}{{ if ne .Name "Teaching" }}
 <p><a href="{{ .URL | relURL }}">{{- .Name -}}</a></p>
-{{ end }}
+{{ end }}{{ end }}
+<p><a href="{{ "/CV.pdf" | relURL}}" target="_blank">Curriculum Vitae</a></p>
+<p><a href="https://scholar.google.com/citations?user=nN3AFTgAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+<p><a href="https://github.com/julian-arteaga" target="_blank">GitHub</a></p>
 <hr />
-<div class="compact-sidebar">
-    <p><a href="{{ "/CV.pdf" | relURL}}" target="_blank"><b>Curriculum Vitae</b></a></p>
-    <p><a href="https://scholar.google.com/citations?user=nN3AFTgAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
-    <p><a href="https://github.com/julian-arteaga" target="_blank">GitHub</a></p>
-</div>
-<hr />
+<p style="color:black;">julianart@iadb.org</p>

@@ -1,67 +1,78 @@
 {{ define "main" -}}
 {{ .Content }}
 
-{{ range .Site.Data.research }}
+<!-- START PUBLICATIONS -->
+{{ with .Site.Data.research.c_publications.c_publications }}
+<h2>Publications</h2>
+{{ range . }}
+<p>
+<h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title
+        }}{{ with .pdflink }}</a>{{ end }}</h3>
+
+{{ with .links2 }}
+with
+{{ range . }}
+<a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
+{{ end }}
+{{ end }}
+
+<!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
+{{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+{{ $links := .links }}{{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em>{{ range $links }} | <a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}</p>{{ end }}
+<details>
+    <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
+    {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+</details>
+</p>
+{{ end }}
+{{ end }}
+<!-- END PUBLICATIONS -->
+<hr>
 
 <!-- START WP -->
-{{ with .a_workingpapers }}
+{{ with .Site.Data.research.a_workingpapers.a_workingpapers }}
 <h2>Working Papers</h2>
 {{ range . }}
 <p>
 <h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title
         }}{{ with .pdflink }}</a>{{ end }}</h3>
 
-    
-    {{ with .links2 }}
-    with
-        {{ range . }} 
-            <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
-        {{ end }}
-    
+{{ with .links2 }}
+with
+    {{ range . }}
+        <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
     {{ end }}
-    
-    <!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
-    {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-    {{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
-    <details>
-        <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
-    
-        {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-    </details>
+{{ end }}
 
-    {{ with .links }}
-    {{ range . }}<p style="margin:0 0 5px;"></p><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
-    {{ end }}
+<!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
+{{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+{{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
+<details>
+    <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
+    {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
+</details>
 
-    {{ with .links3 }}
-    {{ range . }}<p style="margin:0 0 5px;"></p><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
-    {{ end }}
-
-    </p>
+{{ if or .links .links3 }}<p style="margin:0 0 5px;">{{ range .links }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}{{ range .links3 }} | <a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}</p>{{ end }}
+</p>
 {{ end }}
 {{ end }}
 <!-- END WP -->
+<hr>
 
-
-
-<!-- START WORK IN PROGRESS  -->
-
-{{ with .b_workinprogress }}
+<!-- START WORK IN PROGRESS -->
+{{ with .Site.Data.research.b_workinprogress.b_workinprogress }}
 <h2>Work in Progress</h2>
 {{ range . }}
 <p>
 <h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title
         }}{{ with .pdflink }}</a>{{ end }}</h3>
 
-
-    {{ with .links2 }}
-    with
-    {{ range . }}
-    <a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
-    {{ end }}
-    
-    {{ end }}
-
+{{ with .links2 }}
+with
+{{ range . }}
+<a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
+{{ end }}
+{{ end }}
 
 <!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
 {{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
@@ -70,7 +81,6 @@
 {{ with .abstract }}
 <details>
     <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
-
     <p style="margin:0 0 5px;">{{ . }}</p>
 </details>
 {{ end }}
@@ -82,40 +92,5 @@
 {{ end }}
 {{ end }}
 <!-- END WORK IN PROGRESS -->
-
-<!-- START PUBLICATIONS -->
-{{ with .c_publications }}
-<h2>Publications</h2>
-{{ range . }}
-<p>
-<h3 style="margin:20px 0 5px;">{{ with .pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .title
-        }}{{ with .pdflink }}</a>{{ end }}</h3>
-
-
-{{ with .links2 }}
-with
-{{ range . }}
-<a href="{{ .linkURL }}" target="blank">{{ .linkText }}</a>
-{{ end }}
-
-{{ end }}
-
-
-<!-- {{ with .coauthor}}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }} -->
-{{ with .note }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-{{ with .book }}<p style="margin:0 0 5px;"><em>{{ . }}</em></p>{{ end }}
-<details>
-    <summary> <span style="color:#057ab1">Abstract [+]</span> </summary>
-
-    {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
-</details>
-{{ with .links }}
-{{ range . }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}
-{{ end }}
-</p>
-{{ end }}
-{{ end }}
-<!-- END PUBLICATIONS -->
 <hr>
-{{ end }}
 {{- end }}

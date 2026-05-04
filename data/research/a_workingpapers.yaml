@@ -37,19 +37,25 @@ a_workingpapers:
   links:
   - url: "/pdf/ADGIP_2025.pdf"
     text: "Paper"
+  links3:
+  - url: "https://voxdev.org/topic/agriculture/how-will-climate-change-shape-land-markets-and-farm-sizes-developing-world"
+    text: "[VoxDev]"
   abstract: >
     This paper studies the dynamics of farm size distribution, how they are influenced by weather shocks, and the implications for aggregate productivity. Using data from several developing countries, we first document new empirical facts about households’ landholding choices and how weather shocks influence these decisions. Building on a rich longitudinal dataset for Colombia on farm sizes, land transactions, and households’ consumption and investment decisions, we then show that weather shocks increase the frequency of land sales and reduce farm sizes within municipalities, especially among smaller farms. To rationalize these facts, we develop a dynamic, heterogeneous house- hold model in which uninsured farmers make landholding and occupational choices. Our calibrated model shows that uninsured risk substantially curbs aggregate agricul- tural productivity, and that the effects of temporary weather shocks on farm size and agricultural output are highly persistent, taking more than a decade to fade out.
-- title: "Insuring those Who Bear the Risk: The Impact of Gender-inclusive Insurance in Kenya"
+
+- title: "Yield Gains from Balancing Fertilizer Use: Evidence from Eastern India"
   links2:
-  - linkText: Michael Carter,
-    linkURL: https://are.ucdavis.edu/people/faculty/michael-carter/
-  - linkText: Andrew Hobbs
-    linkURL: https://hobbservations.com
+  - linkText: Klaus Deininger
+    linkURL: https://www.worldbank.org/en/about/people/k/klaus-deininger
+  book: "Revise and Resubmit, American Journal of Agricultural Economics"
   links:
-  - url: "https://www.nber.org/papers/w31639"
-    text: "NBER Working Paper 31639, (2023)"
+  - url: "/pdf/WB-PRWP%2011134.pdf"
+    text: "Paper"
+  links3:
+  - url: "https://www.ideasforindia.in/topics/agriculture/balancing-fertiliser-use-for-higher-yields-and-sustainable-agriculture"
+    text: "[Ideas 4 India]"
   abstract: >
-    The novel insurance contracts for crop losses and livestock mortality that have been developed in low income countries typically protect against shocks in the traditionally male sphere of economic activity. Often overlooked are women, the particularities of their indirect exposure to this risk, and their socially constructed responsibility to manage family well-being. To fill this lacuna, this paper studies the effect of a low-cost intervention that reformulates a livestock insurance contract so that it directly addresses women’s risk and is sold in units that are commensurate with women’s expenditure responsibilities. We measure the effect of this contractual reformulation using a randomized trial amongst pastoralist communities in Kenya. Twenty-nine percent of previously subsidized households that received the novel contractual formulation purchased insurance (without subsidy), compared to only nineteen percent of previously subsidized households offered insurance under the standard malerisk formulation. Households that had not received prior insurance subsidies purchased no insurance, irrespective of the inclusivity of the insurance design. Protecting women, their assets, and those who depend on them will require a combination of smart subsidies and gender-inclusive insurance contract design.
+    As with most agricultural inputs, the optimal use of fertilizer leverages the production complementarities between different types of nutrients. Wide variation in the intensity of nutrient application rates suggests there are potentially large productivity gains to be had from rebalancing fertilizer use across nutrient types even under a fixed expenditure budget. Using detailed information on a large sample of rice fields across three states in eastern India, this paper investigates whether a more balanced use of fertilizer—measured as the ratio of potash to nitrogen applied to a field—can lead to higher yields and revenues. To address the endogeneity of fertilizer application decisions, the analysis exploits the fact that nitrogen-based fertilizers demanded by Indian farmers are mostly produced domestically in a limited number of manufacturing plants, while all potash-based fertilizers must be imported by ship from abroad. Instrumenting for the ratio of potassium-to-nitrogen fertilizer applied on a field with the relative travel distances between farmers' villages and both the nearest urea production plant and the nearest international port, the paper estimates the impact of more balanced fertilizer use on yields and revenues. The estimates show that at median levels of fertilizer use, and keeping the level of expenditure on fertilizers constant, rebalancing fertilizer application choices such that the potassium-to-nitrogen ratio of fertilizer is doubled would lead to a 4.8 percent increase in yield.
 
 - title: "Mexican Migration Flows and Agricultural Labor Markets in the U.S."
   links2:
