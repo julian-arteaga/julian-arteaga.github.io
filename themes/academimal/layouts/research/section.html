@@ -52,7 +52,7 @@ with
     {{ with .abstract }}<p style="margin:0 0 5px;">{{ . }}</p>{{ end }}
 </details>
 
-{{ if or .links .links3 }}<p style="margin:0 0 5px;">{{ range .links }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}{{ range .links3 }} | <a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}</p>{{ end }}
+{{ if or .links .links3 .linksText }}<p style="margin:0 0 5px;">{{ with .linksText }}{{ . }}{{ end }}{{ range .links }}<a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}{{ range .links3 }} | <a href="{{ .url }}" target="blank">{{ .text }}</a>{{ end }}</p>{{ end }}
 </p>
 {{ end }}
 {{ end }}
