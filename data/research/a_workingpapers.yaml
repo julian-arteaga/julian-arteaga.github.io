@@ -1,9 +1,8 @@
 a_workingpapers:
 
-- title: "Land-Market Restrictions and Agricultural Productivity under Market Power"
-  book: "Job Market Paper"
+- title: "Land Market Restrictions, Agricultural Productivity, and Rural Labor Markets: Evidence from Colombia’s Land Ceiling Policy"
   links:
-  - url: "/pdf/Arteaga_landincolombia_latest.pdf"
+  - url: "/pdf/ssrn-6783898.pdf"
     text: "Paper"
 
   links3:
@@ -11,18 +10,7 @@ a_workingpapers:
     text: "[World Bank Development Impact Blog]"
   
   abstract: >
-    I investigate how government restrictions on land markets impact the agricultural sector, and assess whether such restrictions can curb distortions that stem from the presence of market power. To do so, I develop a general-equilibrium production model in which large landholders exert market power in both land and labor markets, and where there are limits on land accumulation. Restrictions reduce the inefficiencies arising from market power, but also hinder productive reallocation, with the net effect on productivity depending on initial levels of land concentration. I empirically test the model’s predictions by estimating how a law imposing municipality-specific limits on landholdings in Colombia affected productivity, land concentration, and agricultural labor markets. To estimate the impact of the law, I combine a collection of rich micro-level data sources which include a newly built dataset on municipal agricultural productivity. Exploiting plausibly exogenous variation in restriction stringency across bordering municipalities, I find that imposing restrictions caused a permanent reduction in productivity and only modest reductions in overall land inequality. However, restrictions also increased both agricultural workers’ earnings and the employment share in agriculture, suggesting they were beneficial to landless wage laborers by reducing labor market power.
-
-- title: "Declining Mobility among Mexican-Born Workers in the U.S. Labor Force"
-  book: "Revise and Resubmit, Journal of Urban Economics"
-  links2:
-  - linkText: Ashish Shenoy
-    linkURL: https://ashishshenoy.com
-  links:
-  - url: "/pdf/Paper_Mexican_Mobility_aug2023.pdf"
-    text: "Paper"
-  abstract: >
-    Geographic mobility is a key component of labor supply elasticity. We document a reversal in the relative migration elasticity of Mexican immigrants in the U.S. relative to native-born workers. In 2000--2012, Mexican immigrants' location choice was more responsive to local economic conditions, with the gap expanding over the period. This pattern subsequently reversed, and by 2020 native-born workers had a greater migration elasticity than their Mexican-born counterparts. This reversal is unique to immigrants of Mexican origin, does not correspond to geographic differences in immigration policy, and is not explained by the occupational or demographic composition of the Mexican-born labor force.
+    This paper investigates how government restrictions on rural land markets impact the agricultural sector of an economy. Drawing on a combination of novel, detailed data on land transactions, agricultural production, and worker-level outcomes, the paper estimates how a law establishing municipality-specific limits on individual landholdings in Colombia affected productivity, land concentration, and workers’ employment and earnings during the 1994–2004 period. Exploiting plausibly exogenous variation in restriction stringency across bordering municipalities, results show that municipalities with stronger restrictions had a permanent reduction in productivity and only modest reductions in overall land inequality. However, stronger restrictions also led to an increase in both agricultural wage-workers’ earnings and the employment share in agriculture. To rationalize these findings, the paper develops a general equilibrium production model in which large landholders exert market power in both land and labor markets, and where the government can set limits on land accumulation. The model’s predictions are consistent with the empirical findings and illustrate how restrictions can curb distortions that stem from the presence of market power but also prevent productive reallocation, with their net effects depending on initial levels of land concentration.
 
 - title: "Farm Size Distribution, Weather Shocks, and Agricultural Productivity"
   links2:
@@ -38,10 +26,24 @@ a_workingpapers:
   - url: "/pdf/ADGIP_2025.pdf"
     text: "Paper"
   links3:
+  - url: "/pdf/Farm-Size-Distribution-Weather-Shocks-and-Agricultural-Productivity.pdf"
+    text: "[IDB Working Paper]"
   - url: "https://voxdev.org/topic/agriculture/how-will-climate-change-shape-land-markets-and-farm-sizes-developing-world"
     text: "[VoxDev]"
   abstract: >
-    This paper studies the dynamics of farm size distribution, how they are influenced by weather shocks, and the implications for aggregate productivity. Using data from several developing countries, we first document new empirical facts about households’ landholding choices and how weather shocks influence these decisions. Building on a rich longitudinal dataset for Colombia on farm sizes, land transactions, and households’ consumption and investment decisions, we then show that weather shocks increase the frequency of land sales and reduce farm sizes within municipalities, especially among smaller farms. To rationalize these facts, we develop a dynamic, heterogeneous house- hold model in which uninsured farmers make landholding and occupational choices. Our calibrated model shows that uninsured risk substantially curbs aggregate agricul- tural productivity, and that the effects of temporary weather shocks on farm size and agricultural output are highly persistent, taking more than a decade to fade out.
+    This paper studies the dynamics of farm size distribution, how they are influenced by weather shocks, and the implications for aggregate productivity. Using data from several developing countries, we first document new empirical facts about households’ landholding choices and how weather shocks influence these decisions. Building on a rich longitudinal dataset for Colombia on farm sizes, land transactions, and households’ consumption and investment decisions, we then show that weather shocks increase the frequency of land sales and reduce farm sizes within municipalities, especially among smaller farms. To rationalize these facts, we develop a dynamic, heterogeneous household model in which uninsured farmers make landholding and occupational choices. Our calibrated model shows that uninsured risk substantially curbs aggregate agricultural productivity, and that the effects of temporary weather shocks on farm size and agricultural output are highly persistent, taking more than a decade to fade out.
+
+
+- title: "Declining Mobility among Mexican-Born Workers in the U.S. Labor Force"
+  book: "Revise and Resubmit, Journal of Urban Economics"
+  links2:
+  - linkText: Ashish Shenoy
+    linkURL: https://ashishshenoy.com
+  links:
+  - url: "/pdf/Paper_Mexican_Mobility_aug2023.pdf"
+    text: "Paper"
+  abstract: >
+    Geographic mobility is a key component of labor supply elasticity. We document a reversal in the relative migration elasticity of Mexican immigrants in the U.S. relative to native-born workers. In 2000–2012, Mexican immigrants' location choice was more responsive to local economic conditions, with the gap expanding over the period. This pattern subsequently reversed, and by 2020 native-born workers had a greater migration elasticity than their Mexican-born counterparts. This reversal is unique to immigrants of Mexican origin, does not correspond to geographic differences in immigration policy, and is not explained by the occupational or demographic composition of the Mexican-born labor force.
 
 - title: "Yield Gains from Balancing Fertilizer Use: Evidence from Eastern India"
   links2:
@@ -63,7 +65,21 @@ a_workingpapers:
     linkURL: https://ashishshenoy.com
   linksText: "Updated version coming soon"
   abstract: >
-    Using information on undocumented migratory flows for every Mexican municipality and U.S. county pair throughout the 2006--2019 period, this paper estimates the effect that variations in Mexican migration flows have on U.S. agricultural labor-market outcomes. We instrument for migration-driven changes in local labor supply using a shift-share variable that combines Mexican municipality-level violence levels with preexisting migration network patterns. Decadal long-difference estimates show that, in the long run, higher migration inflows raise both wages and employment in agriculture. Employment adjusts almost entirely along the contract-labor margin as hiring through farm labor contractors expands, while the number of directly-hired crop workers is unchanged. We find no evidence that producers respond to slower inflows by substituting toward H-2A guest workers. Regarding the mechanisms driving these results, we find that counties receiving exogenously larger inflows have more farms, devote more acreage to horticulture and vegetables and less to field crops, spend less on machinery, and have higher average farmland values.
+    Using information on undocumented migratory flows for every Mexican municipality and U.S. county pair throughout the 2006–2019 period, this paper estimates the effect that variations in Mexican migration flows have on U.S. agricultural labor-market outcomes. We instrument for migration-driven changes in local labor supply using a shift-share variable that combines Mexican municipality-level violence levels with preexisting migration network patterns. Decadal long-difference estimates show that, in the long run, higher migration inflows raise both wages and employment in agriculture. Employment adjusts almost entirely along the contract-labor margin as hiring through farm labor contractors expands, while the number of directly-hired crop workers is unchanged. We find no evidence that producers respond to slower inflows by substituting toward H-2A guest workers. Regarding the mechanisms driving these results, we find that counties receiving exogenously larger inflows have more farms, devote more acreage to horticulture and vegetables and less to field crops, spend less on machinery, and have higher average farmland values.
+
+- title: "The Anatomy of Household Shocks in Latin America: Evidence from Panel Surveys"
+  links2:
+  - linkText: Mariano Bosch,
+    linkURL: https://mbosch75-bid.github.io/Mariano-Bosch-Webpage/index.html
+  - linkText: Ana María Ibáñez,
+    linkURL: http://www.anamariaibanez.net
+  - linkText: Luis Tejerina
+    linkURL: https://www.iadb.org/en/blog/author/tejerinaluis-rodrigo
+  links:
+  - url: "/pdf/The-Anatomy-of-Household-Shocks-in-Latin-America-Evidence-from-Panel-Surveys.pdf"
+    text: "[IDB Working Paper]"
+  abstract: >
+    Households in developing economies face frequent and uninsured shocks that generate income volatility and persistent vulnerability. Using harmonized longitudinal data from household surveys in Colombia, El Salvador, Mexico, and Peru covering 2002–2023, this paper presents new evidence on the incidence and persistence of self-reported shocks related to weather, health, and employment, as well as on the welfare changes and coping strategies that follow. We document five main findings. First, exposure is widespread and persistent: roughly one in four households experiences at least one adverse event in a given year, with a shock in one period raising the probability of being hit again in the next by eleven to twenty-two percentage points depending on the type of shock. Second, incidence varies sharply across households. Rural and poorer families are more likely to experience weather and health shocks, while employment shocks are more common among urban, less deprived households. Third, changes in welfare differ markedly across shock types and time horizons. Employment shocks are followed by the steepest short-term declines in income and consumption, while weather shocks are associated with smaller but more persistent and compounding losses. Health shocks, in contrast, raise expenditures as households increase spending to cope with medical needs. Fourth, shocks trigger costly coping responses. Households rely on borrowing, public transfers, and labor reallocation to smooth losses, with the mix of strategies varying across shock types. Fifth, long-run recovery is markedly unequal: after an initial downturn, households with higher baseline consumption manage to largely recover from weather shocks, while poorer households do not. Households enrolled in government programs before shock occurrence experience substantially lower income losses from both weather and employment shocks, suggesting these programs act as insurance against a broad range of adverse events.
 
   
     
